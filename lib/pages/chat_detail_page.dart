@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_font_icons/flutter_font_icons.dart';
 import 'package:telegram_clone_app/json/chat_json.dart';
 import 'package:telegram_clone_app/theme/colors.dart';
@@ -40,10 +39,13 @@ class _ChatDetailPageState extends State<ChatDetailPage> {
                     fontSize: 17,color: white,
                     fontWeight: FontWeight.bold
                   ),),
-                  Text("last seen recently",style: TextStyle(
-                    fontSize: 12,color: white.withOpacity(0.4),
-                   
-                  ),),
+                  Text(
+                    "visto pela última vez recentemente",
+                    style: TextStyle(
+                      fontSize: 12,
+                      color: white.withOpacity(0.4),
+                    ),
+                  ),
                 ],
               ),
             ),

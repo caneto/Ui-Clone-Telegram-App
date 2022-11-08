@@ -11,16 +11,16 @@ const List chat_data = [
   {
     "img":
         "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2ZpbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Ben Parker",
-    "text": "Yes, got it. Thanks for your contacting.",
+    "name": "Carlos Sousa",
+    "text": "Sim entendi. Obrigado pelo seu contato.",
     "date": "3:23 PM",
     "badge" : 0
   },
   {
     "img":
         "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
-    "name": "Ben den Engelsen",
-    "text": "Hey man, let's catup soon.",
+    "name": "Bem Freitas",
+    "text": "Ei cara, vamos conversar em breve.",
     "date": "3:23 PM",
     "badge" : 3
   },
@@ -28,30 +28,30 @@ const List chat_data = [
     "img":
         "https://images.unsplash.com/photo-1520155707862-5b32817388d6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2ZpbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
     "name": "Foto Sushi",
-    "text": "going to sleep now",
+    "text": "indo dormir agora",
     "date": "2:28 PM",
     "badge" : 1
   },
   {
     "img":
         "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fHByb2ZpbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Ayo Ogunseinde",
-    "text": "Have a nice day, Sopheamen 😁",
+    "name": "Antonio Soares",
+    "text": "Tenha um bom dia, Freancisco 😁",
     "date": "9:36 PM",
     "badge" : 1
   },
   {
     "img":
         "https://images.unsplash.com/photo-1517070208541-6ddc4d3efbcb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2ZpbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Steve Halama",
-    "text": "How is everthing?",
+    "name": "Carlos Diego",
+    "text": "Como está tudo?",
     "date": "Sat",
     "badge" : 0
   },
   {
     "img":
         "https://images.unsplash.com/photo-1525879000488-bff3b1c387cf?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjV8fHByb2ZpbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Zohre Nemati",
+    "name": "Soares F.",
     "text": "ok",
     "date": "Fri",
     "badge" : 2
@@ -59,8 +59,8 @@ const List chat_data = [
   {
     "img":
         "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzV8fHByb2ZpbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Patrick Hendry",
-    "text": "take care! speak soon :)",
+    "name": "Paulo Feiras",
+    "text": "cuidar! fale logo :)",
     "date": "Thu",
     "badge" : 0
   }
@@ -71,121 +71,121 @@ const List chat_data = [
 const List messages = [
   {
     "isMe": true,
-    "message": "Hey friend, How are you doing?",
+    "message": "Oi amigo, como vai?",
     "time": "1:40 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "good to know you are well.",
+    "message": "bom saber que você está bem.",
     "time": "1:40 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "you can sing.",
+    "message": "você pode cantar.",
     "time": "1:41 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "okay friend,",
+    "message": "tudo bem amiga,",
     "time": "1:41 PM",
     "isLast": true,
   },
   {
     "isMe": false,
-    "message": "Good ey friend",
+    "message": "Boa ei amigo",
     "time": "2:42 PM",
     "isLast": false,
   },
   {
     "isMe": false,
-    "message": "jam sing 2 nak",
+    "message": "jam cantar 2 nak",
     "time": "2:44 PM",
     "isLast": false,
   },
   {
     "isMe": false,
-    "message": "good nas",
+    "message": "bom nas",
     "time": "2:45 PM",
     "isLast": false,
   },
   {
     "isMe": false,
-    "message": "Hi frienddd.",
+    "message": "Oi amigo.",
     "time": "2:46 PM",
     "isLast": true,
   },
   {
     "isMe": true,
-    "message": "yes, hey again Sophal",
+    "message": "sim, ei de novo Pedro",
     "time": "1:40 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "Let me try to call you tomorrow.",
+    "message": "Deixe-me tentar ligar para você amanhã.",
     "time": "1:40 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "Next time pel tenh tam me tov",
+    "message": "Da próxima vez pel tenh tam me tov",
     "time": "1:41 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "Order tam me tov",
+    "message": "Encomende tam me tov",
     "time": "1:41 PM",
     "isLast": true,
   },
   {
     "isMe": false,
-    "message": "Orkun friend",
+    "message": "amigo orkun",
     "time": "2:42 PM",
     "isLast": false,
   },
   {
     "isMe": false,
-    "message": "me banh song fri venh ai",
+    "message": "eu tenho uma música sex ai",
     "time": "2:44 PM",
     "isLast": false,
   },
   {
     "isMe": false,
-    "message": "orkun nas friend",
+    "message": "amigo orkun",
     "time": "2:45 PM",
     "isLast": false,
   },
   {
     "isMe": false,
-    "message": "all the best na!!!",
+    "message": "tudo de bom né!!!",
     "time": "2:46 PM",
     "isLast": true,
   },
   {
     "isMe": true,
-    "message": "Wow, niceee",
+    "message": "uau, legal",
     "time": "1:40 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "Yes very good",
+    "message": "Sim muito bom",
     "time": "1:40 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "No worries, all the best",
+    "message": "Não se preocupe, tudo de bom",
     "time": "1:41 PM",
     "isLast": false,
   },
   {
     "isMe": true,
-    "message": "talk to you soon.",
+    "message": "Falo com você em breve.",
     "time": "1:41 PM",
     "isLast": true,
   },
