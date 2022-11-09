@@ -1,7 +1,6 @@
-# Twitch Clone App UI
+# Ui-Clone-Telegram-App
 
-- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on youtube](https://youtu.be/erbFu21T3l8)
+- [Support me on Patreon](patreon.com/carlosalbertopinto?fan_landing=true)
 
 ![Telegram App UI](https://user-images.githubusercontent.com/16510597/174607709-57f40999-0d68-4245-90be-7d3b99c89ef4.jpeg)
 
