@@ -1,6 +1,6 @@
 # Ui-Clone-Telegram-App
 
-- [Support me on Patreon](patreon.com/carlosalbertopinto?fan_landing=true)
+- [Support me on Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
 
 ![Telegram App UI](https://user-images.githubusercontent.com/16510597/174607709-57f40999-0d68-4245-90be-7d3b99c89ef4.jpeg)
 
