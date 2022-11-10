@@ -44,8 +44,7 @@ class _ChatDetailPageState extends State<ChatDetailPage> {
                     style: TextStyle(
                       fontSize: 12,
                       color: white.withOpacity(0.4),
-                    ),
-                  ),
+                    ),),
                 ],
               ),
             ),
