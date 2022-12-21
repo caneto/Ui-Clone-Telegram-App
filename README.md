@@ -1,4 +1,4 @@
-# Ui-Clone-Telegram-App
+# Ui Clone Telegram App
 
 - [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
 
